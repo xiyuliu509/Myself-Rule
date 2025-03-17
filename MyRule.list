@@ -1,0 +1,33 @@
+# 机场分流
+DOMAIN-SUFFIX,www.chayiyun.xyz,DIRECT
+DOMAIN-SUFFIX,www.chayi.cfd,DIRECT
+
+# emby分流-----------------------
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org,Infuse
+
+# DPeak
+DOMAIN-SUFFIX,dpeak.bwihz.cn,FacMata
+
+# Saturday.Lite
+DOMAIN-SUFFIX,lite.saturday.video,Infuse
+
+# FacMata机场服
+DOMAIN-SUFFIX,theater.makima.online,FacMata
+DOMAIN-SUFFIX,restrict.makima.online,FacMata
+DOMAIN-SUFFIX,celluloid.makima.online,FacMata
+DOMAIN-SUFFIX,cinema.makima.online,FacMata
+DOMAIN-SUFFIX,anime.makima.online,Infuse
+
+# Reflix专属分流-------------------
+DOMAIN-SUFFIX,trakt.tv,Infuse
+DOMAIN-SUFFIX,reflix.top,Infuse
+DOMAIN-SUFFIX,image.tmdb.org,Infuse
+
+# 软件分流-----------------------
+DOMAIN-SUFFIX,18comic,香港
+DOMAIN-SUFFIX,hanime1.me,香港
+DOMAIN-SUFFIX,app.follow.is,香港
+DOMAIN-SUFFIX,manhuapica.com,香港
+
+
