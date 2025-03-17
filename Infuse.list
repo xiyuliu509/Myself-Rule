@@ -1,0 +1,17 @@
+# emby分流-----------------------
+# 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# Saturday.Lite
+DOMAIN-SUFFIX,lite.saturday.video
+
+# FacMata机场服
+DOMAIN-SUFFIX,anime.makima.online
+
+# Reflix专属分流-------------------
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,reflix.top
+DOMAIN-SUFFIX,image.tmdb.org
+
+
+
