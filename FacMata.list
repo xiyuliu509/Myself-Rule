@@ -1,10 +1,6 @@
-# emby分流-----------------------
-# FacMata机场服
-DOMAIN-SUFFIX,theater.makima.online,FacMata
-DOMAIN-SUFFIX,restrict.makima.online,FacMata
-DOMAIN-SUFFIX,celluloid.makima.online,FacMata
-DOMAIN-SUFFIX,cinema.makima.online,FacMata
-
-# DPeak
-DOMAIN-SUFFIX,dpeak.bwihz.cn,FacMata
+DOMAIN-SUFFIX, theater.makima.online, FacMata
+DOMAIN-SUFFIX, restrict.makima.online, FacMata
+DOMAIN-SUFFIX, celluloid.makima.online, FacMata
+DOMAIN-SUFFIX, cinema.makima.online, FacMata
+DOMAIN-SUFFIX, dpeak.bwihz.cn, FacMata
 
